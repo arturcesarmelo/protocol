@@ -1,0 +1,13 @@
+$primary: #ffffff;
+$danger: #ff4136;
+
+.btn-primary {
+    border-color: rgba(0, 0, 0, 0.527) !important;
+}
+
+.badge.bg-primary {
+    border-color: rgba(0, 0, 0, 0.527) !important;
+    border-width: 1px !important;
+    color: rgba(0, 0, 0, 0.727) !important;
+    border-style: solid;
+}
